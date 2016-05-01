@@ -1,7 +1,0 @@
-name: Publish Document
-account: rpubs
-server: rpubs.com
-appId: https://api.rpubs.com/api/v1/document/177333/e47a2bd63f394ef8a61efac4b5233c43
-bundleId: https://api.rpubs.com/api/v1/document/177333/e47a2bd63f394ef8a61efac4b5233c43
-url: http://rpubs.com/beardymcgee/177333
-when: 1462096844.81202

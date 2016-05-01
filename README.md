@@ -7,7 +7,7 @@ This repository contains the files required for the Data Products course project
 
 The code used for the Shiny application can be found under: [https://github.com/beardymcgee/data-products/tree/master/app](https://github.com/beardymcgee/data-products/tree/master/app).
 
-The application itself provides a service for prediction of house prices in San Francisco. It is available online under the following link: [https://beardymcgee.shinyapps.io/project/](https://beardymcgee.shinyapps.io/project/).
+The application itself provides a service for prediction of house prices in San Francisco. It is available online under the following link: [https://beardymcgee.shinyapps.io/Project/](https://beardymcgee.shinyapps.io/Project/).
 
 The reproducible pitch presentation about this application is available under: [http://rpubs.com/beardymcgee/hpe](http://rpubs.com/beardymcgee/hpe).
 
